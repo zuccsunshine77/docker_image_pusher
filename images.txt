@@ -1,1 +1,1 @@
-gcr.io/google_containers/hyperkube:v1.21.0
+gcr.io/google_containers/hyperkube
