@@ -1,1 +1,1 @@
-rancher/hyperkube-base:v0.0.20
+ rancher/hyperkube
