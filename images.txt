@@ -9,4 +9,5 @@
 #k8s.gcr.io/metrics-server/metrics-server:v0.6.1
 #--platform=linux/arm64 registry-ui
 #--platform=linux/arm64 registry:2
---platform=linux/arm64 alpine
+#--platform=linux/arm64 alpine
+--platform=linux/arm64 nginx:1.24.0
