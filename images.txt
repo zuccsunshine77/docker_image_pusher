@@ -14,3 +14,4 @@
 #--platform=linux/arm64 docker.io/rancher/pause:3.1
 --platform=linux/arm64 rancher/metrics-server:v0.3.6
 #--platform=linux/arm64 rancher/local-path-provisioner:v0.0.14
+--platform=linux/arm64 nicolaka/netshoot
