@@ -13,4 +13,4 @@
 #--platform=linux/arm64 nginx:1.24.0
 #--platform=linux/arm64 docker.io/rancher/pause:3.1
 #--platform=linux/arm64 metrics-server:v0.3.6
---platform=linux/arm64 local-path-provisioner:v0.0.14
+--platform=linux/arm64 local-rancher/local-path-provisioner:v0.0.14
