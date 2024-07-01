@@ -10,4 +10,5 @@
 #--platform=linux/arm64 registry-ui
 #--platform=linux/arm64 registry:2
 #--platform=linux/arm64 alpine
---platform=linux/arm64 nginx:1.24.0
+#--platform=linux/arm64 nginx:1.24.0
+--platform=linux/arm64 docker.io/rancher/pause:3.1
