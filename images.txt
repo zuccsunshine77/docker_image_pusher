@@ -19,11 +19,12 @@
 #--platform=linux/arm64 k8s.gcr.io/metrics-server/metrics-server:v0.6.1
 # 无以下镜像
 #--platform=linux/arm64 bitnami/zookeeper:3.6.2-debian-10-r156
---platform=linux/arm64 bitnami/bitnami-shell:10
+#--platform=linux/arm64 bitnami/bitnami-shell:10
 #--platform=linux/arm64 mysql:5.7.28
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
 #moby/buildkit:buildx-stable-1
 #--platform=linux/arm64 biarms/mysql:5.7.30-linux-arm64v8
+kafka:2.7.0
 
