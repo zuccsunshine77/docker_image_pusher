@@ -26,5 +26,4 @@
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
 #moby/buildkit:buildx-stable-1
 #--platform=linux/arm64 biarms/mysql:5.7.30-linux-arm64v8
-kafka:2.7.0
-
+wurstmeister/kafka:2.7.0
