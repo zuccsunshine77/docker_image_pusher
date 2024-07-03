@@ -20,7 +20,7 @@
 # 无以下镜像
 #--platform=linux/arm64 bitnami/zookeeper:3.6.2-debian-10-r156
 #--platform=linux/arm64 bitnami/bitnami-shell:10
---platform=linux/arm64 mysql:5.7.28
+#--platform=linux/arm64 mysql:5.7.28
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
