@@ -21,11 +21,11 @@
 #--platform=linux/arm64 bitnami/zookeeper:3.6.2-debian-10-r156
 #--platform=linux/arm64 bitnami/bitnami-shell:10
 #--platform=linux/arm64 mysql:5.7.28
-#
+#--platform=linux/arm64 vectorized/kafka:2.7.0
+##wurstmeister/kafka:2.7.0
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
 #moby/buildkit:buildx-stable-1
 #--platform=linux/arm64 biarms/mysql:5.7.30-linux-arm64v8
-#wurstmeister/kafka:2.7.0
 #--platform=linux/arm64 openjdk:17-jdk
---platform=linux/arm64 vectorized/kafka:2.7.0
+--platform=linux/arm64 bitnami/kafka:2.7.0
