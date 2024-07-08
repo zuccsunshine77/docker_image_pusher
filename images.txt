@@ -38,4 +38,5 @@
 #--platform=linux/arm64 alpine:3.10
 --platform=linux/arm64 minio/minio
 #--platform=linux/arm64 elasticsearch:6.8.6
---platform=linux/arm64 openjdk:8-jdk
+#--platform=linux/arm64 openjdk:8-jdk
+--platform=linux/arm64 elyalvarado/elasticsearch:6.8
