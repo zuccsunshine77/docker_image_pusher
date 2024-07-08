@@ -32,3 +32,4 @@
 #--platform=linux/arm64 biarms/mysql:5.7.30-linux-arm64v8
 #--platform=linux/arm64 openjdk:17-jdk
 --platform=linux/arm64 redis:6.2.3
+--platform=linux/arm64 redis-exporter:1.23.1
