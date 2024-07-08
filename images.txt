@@ -34,5 +34,6 @@
 #--platform=linux/arm64 redis:6.2.3
 #--platform=linux/arm64 redis-exporter:1.23.1
 #--platform=linux/arm64 minio/minio:RELEASE.2020-02-07T23-28-16Z
---platform=linux/arm64 golang:1.13-alpine
---platform=linux/arm64 alpine:3.10
+#--platform=linux/arm64 golang:1.13-alpine
+#--platform=linux/arm64 alpine:3.10
+--platform=linux/arm64 elasticsearch/elasticsearch:6.8.23
