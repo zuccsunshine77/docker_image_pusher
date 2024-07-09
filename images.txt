@@ -36,7 +36,8 @@
 #--platform=linux/arm64 minio/minio:RELEASE.2020-02-07T23-28-16Z
 #--platform=linux/arm64 golang:1.13-alpine
 #--platform=linux/arm64 alpine:3.10
---platform=linux/arm64 minio/minio
+#--platform=linux/arm64 minio/minio
 #--platform=linux/arm64 elasticsearch:6.8.6
 #--platform=linux/arm64 openjdk:8-jdk
---platform=linux/arm64 elyalvarado/elasticsearch:6.8
+#--platform=linux/arm64 elyalvarado/elasticsearch:6.8
+multiarch/qemu-user-static
