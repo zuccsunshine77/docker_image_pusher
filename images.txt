@@ -41,4 +41,5 @@
 #--platform=linux/arm64 openjdk:8-jdk
 #--platform=linux/arm64 elyalvarado/elasticsearch:6.8
 #multiarch/qemu-user-static
-multiarch/qemu-user-static:register
+#multiarch/qemu-user-static:register
+--platform=linux/arm64 cimg/openjdk:17.0
