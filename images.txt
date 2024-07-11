@@ -25,6 +25,7 @@
 ##wurstmeister/kafka:2.7.0
 #--platform=linux/arm64 bitnami/kafka:2.7.0
 #--platform=linux/arm64 solsson/kafka:2.7.0
+#--platform=linux/arm64 busybox:1.26.2
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
@@ -46,4 +47,4 @@
 #--platform=linux/arm64 tomcat:8.5.87-jdk17
 #ubuntu:22.04
 #--platform=linux/arm64 ubuntu:20.04
---platform=linux/arm64 busybox:1.26.2
+--platform=linux/arm64 busybox:1.31.1
