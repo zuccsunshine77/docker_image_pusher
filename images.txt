@@ -47,4 +47,5 @@
 #--platform=linux/arm64 tomcat:8.5.87-jdk17
 #ubuntu:22.04
 #--platform=linux/arm64 ubuntu:20.04
---platform=linux/arm64 busybox:1.31.1
+#--platform=linux/arm64 busybox:1.31.1
+--platform=linux/arm64 centos:7
