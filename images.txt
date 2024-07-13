@@ -50,6 +50,6 @@
 #--platform=linux/arm64 busybox:1.31.1
 #--platform=linux/arm64 centos:7
 # 备用minio:RELEASE.2020
--platform=linux/arm64 csalamflamo/minio:standalone
--platform=linux/arm64 minio/mc
+--platform=linux/arm64 csalamflamo/minio:standalone
+--platform=linux/arm64 minio/mc
 
