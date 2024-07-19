@@ -51,5 +51,5 @@
 #--platform=linux/arm64 centos:7
 # 备用minio:RELEASE.2020
 #--platform=linux/arm64 minio/mc
---platform=linux/arm64 debian:11.8
-
+#--platform=linux/arm64 debian:11.8
+--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.6
