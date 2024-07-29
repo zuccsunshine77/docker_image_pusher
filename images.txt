@@ -53,6 +53,8 @@
 #--platform=linux/arm64 minio/mc
 #--platform=linux/arm64 debian:11.8
 #--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.6
-docker.io/kubeshark/front:v52.3.69
-docker.io/kubeshark/hub:v52.3.69
-docker.io/kubeshark/worker:v52.3.69
+#docker.io/kubeshark/front:v52.3.69
+#docker.io/kubeshark/hub:v52.3.69
+#docker.io/kubeshark/worker:v52.3.69
+skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.1
+skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.1
