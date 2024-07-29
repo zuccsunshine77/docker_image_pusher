@@ -58,4 +58,4 @@
 #docker.io/kubeshark/worker:v52.3.69
 #skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.1
 #skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.1
-calico-node:v3.17.2 
+calico/node:v3.17.2
