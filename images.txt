@@ -59,4 +59,5 @@
 #skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.1
 #skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.1
 #calico/node:v3.17.2
-kibana:6.8.23
+#kibana:6.8.23
+docker.io/grafana/grafana:11.1.0
