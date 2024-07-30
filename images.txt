@@ -61,4 +61,5 @@
 #calico/node:v3.17.2
 #kibana:6.8.23
 #docker.io/grafana/grafana:11.1.0
-calico/typha:v3.17.2
+#calico/typha:v3.17.2
+docker.io/rancher/local-path-provisioner:master-head
