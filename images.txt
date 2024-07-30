@@ -62,4 +62,10 @@
 #kibana:6.8.23
 #docker.io/grafana/grafana:11.1.0
 #calico/typha:v3.17.2
-docker.io/rancher/local-path-provisioner:master-head
+#docker.io/rancher/local-path-provisioner:master-head
+registry.k8s.io/coredns/coredns:v1.10.1
+registry.k8s.io/etcd:3.5.9-0
+registry.k8s.io/kube-apiserver:v1.28.0
+registry.k8s.io/kube-controller-manager:v1.28.0
+registry.k8s.io/kube-proxy:v1.28.0
+registry.k8s.io/kube-scheduler:v1.28.0
