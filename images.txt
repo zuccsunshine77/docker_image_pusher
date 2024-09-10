@@ -80,4 +80,5 @@
 #docker.io/bitnami/minio:2022.6.2-debian-10-r0
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
 #mysql:5.7.32
-qemux/qemu-docker:6.00
+#qemux/qemu-docker:6.00
+multiarch/qemu-user-static
