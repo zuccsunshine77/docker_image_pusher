@@ -53,6 +53,7 @@
 #--platform=linux/arm64 minio/mc
 #--platform=linux/arm64 debian:11.8
 #--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.6
+--platform=linux/arm64 python:3.8.20-alpine3.20
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
 #docker.io/kubeshark/worker:v52.3.69
@@ -82,4 +83,5 @@
 #mysql:5.7.32
 #qemux/qemu-docker:6.00
 #multiarch/qemu-user-static
-tonistiigi/binfmt
+#tonistiigi/binfmt
+
