@@ -26,6 +26,7 @@
 #--platform=linux/arm64 bitnami/kafka:2.7.0
 #--platform=linux/arm64 solsson/kafka:2.7.0
 #--platform=linux/arm64 busybox:1.26.2
+--platform=linux/arm64 kubernetesui/dashboard:v2.7.0
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
