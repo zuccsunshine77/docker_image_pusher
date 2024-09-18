@@ -26,7 +26,8 @@
 #--platform=linux/arm64 bitnami/kafka:2.7.0
 #--platform=linux/arm64 solsson/kafka:2.7.0
 #--platform=linux/arm64 busybox:1.26.2
---platform=linux/arm64 kubernetesui/dashboard:v2.7.0
+#--platform=linux/arm64 kubernetesui/dashboard:v2.7.0
+--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.8
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
@@ -54,7 +55,7 @@
 #--platform=linux/arm64 minio/mc
 #--platform=linux/arm64 debian:11.8
 #--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.6
---platform=linux/arm64 python:3.8.20-alpine3.20
+#--platform=linux/arm64 python:3.8.20-alpine3.20
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
 #docker.io/kubeshark/worker:v52.3.69
