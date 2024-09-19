@@ -86,4 +86,5 @@
 #qemux/qemu-docker:6.00
 #multiarch/qemu-user-static
 #tonistiigi/binfmt
+docker.io/calico/cni:v3.25.0
 
