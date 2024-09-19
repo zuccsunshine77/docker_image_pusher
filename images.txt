@@ -27,7 +27,7 @@
 #--platform=linux/arm64 solsson/kafka:2.7.0
 #--platform=linux/arm64 busybox:1.26.2
 #--platform=linux/arm64 kubernetesui/dashboard:v2.7.0
---platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.8
+#--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.8
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
@@ -86,5 +86,6 @@
 #qemux/qemu-docker:6.00
 #multiarch/qemu-user-static
 #tonistiigi/binfmt
-docker.io/calico/cni:v3.25.0
+#docker.io/calico/cni:v3.25.0
+docker.io/calico/node:v3.25.0
 
