@@ -87,5 +87,6 @@
 #multiarch/qemu-user-static
 #tonistiigi/binfmt
 #docker.io/calico/cni:v3.25.0
-docker.io/calico/node:v3.25.0
+#docker.io/calico/node:v3.25.0
+docker.io/calico/kube-controllers:v3.25.0
 
