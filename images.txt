@@ -89,4 +89,5 @@
 #docker.io/calico/cni:v3.25.0
 #docker.io/calico/node:v3.25.0
 #docker.io/calico/kube-controllers:v3.25.0
-oceanbase/oceanbase-ce:3.1.4
+#oceanbase/oceanbase-ce:3.1.4
+rancher/mirrored-metrics-server:v0.6.3
