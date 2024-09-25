@@ -91,5 +91,6 @@
 #docker.io/calico/kube-controllers:v3.25.0
 #oceanbase/oceanbase-ce:3.1.4
 #rancher/mirrored-metrics-server:v0.6.3
-docker.elastic.co/elasticsearch/elasticsearch:8.12.2
-docker.elastic.co/kibana/kibana:8.12.2
+#docker.elastic.co/elasticsearch/elasticsearch:8.12.2
+#docker.elastic.co/kibana/kibana:8.12.2
+docker.elastic.co/logstash/logstash:8.12.2
