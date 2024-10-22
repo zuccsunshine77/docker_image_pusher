@@ -58,7 +58,9 @@
 #--platform=linux/arm64 python:3.8.20-alpine3.20
 #--platform=linux/arm64 docker.io/bitnami/minio:2024.8.17-debian-12-r0
 #--platform=linux/arm64 docker.io/bitnami/minio-client:2024.8.13-debian-12-r0
---platform=linux/arm64 tiangolo/nginx-rtmp:latest-2024-10-14
+#--platform=linux/arm64 tiangolo/nginx-rtmp:latest-2024-10-14
+--platform=linux/arm64 tomcat:8.5.87
+
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
 #docker.io/kubeshark/worker:v52.3.69
@@ -97,5 +99,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 #docker.elastic.co/kibana/kibana:8.12.2
 #docker.elastic.co/logstash/logstash:8.12.2
-alfg/nginx-rtmp
-tiangolo/nginx-rtmp:latest-2024-10-14
+#alfg/nginx-rtmp
+#tiangolo/nginx-rtmp:latest-2024-10-14
