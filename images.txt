@@ -61,6 +61,7 @@
 #--platform=linux/arm64 tiangolo/nginx-rtmp:latest-2024-10-14
 #--platform=linux/arm64 tomcat:8.5.87
 #--platform=linux/arm64 tomcat:8-jdk8-openjdk
+--platform=linux/arm64 arm64v8/openjdk:11
 
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
