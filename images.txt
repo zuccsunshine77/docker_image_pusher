@@ -116,4 +116,5 @@
 #docker.io/volcanosh/vc-webhook-manager
 #docker.io/calico/cni:v3.20.6
 #ascend-k8sdeviceplugin:v5.0.RC2 拉不到
-clickhouse/clickhouse-server
+#clickhouse/clickhouse-server
+yandex/clickhouse-server:latest
