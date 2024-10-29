@@ -65,10 +65,10 @@
 #--platform=linux/arm64 openresty/openresty
 #openresty/openresty
 #--platform=linux/arm64 openresty/openresty:alpine
---platform=linux/arm64 docker.io/volcanosh/vc-webhook-manager
---platform=linux/arm64 docker.io/volcanosh/vc-controller-manager
---platform=linux/arm64 docker.io/volcanosh/vc-scheduler
---platform=linux/arm64 docker.io/volcanosh/vc-webhook-manager
+#--platform=linux/arm64 docker.io/volcanosh/vc-webhook-manager
+#--platform=linux/arm64 docker.io/volcanosh/vc-controller-manager
+#--platform=linux/arm64 docker.io/volcanosh/vc-scheduler
+
 
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
@@ -115,3 +115,4 @@
 #docker.io/volcanosh/vc-scheduler
 #docker.io/volcanosh/vc-webhook-manager
 #docker.io/calico/cni:v3.20.6
+ascend-k8sdeviceplugin:v5.0.RC2
