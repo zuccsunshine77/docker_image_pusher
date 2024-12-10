@@ -49,7 +49,7 @@
 #--platform=linux/arm64 tomcat:8.5.87-jdk17
 #ubuntu:22.04
 #--platform=linux/arm64 ubuntu:20.04
---platform=linux/arm64 ubuntu:24.04
+#--platform=linux/arm64 ubuntu:24.04
 #--platform=linux/arm64 busybox:1.31.1
 #--platform=linux/arm64 centos:7
 # 备用minio:RELEASE.2020
@@ -71,6 +71,7 @@
 #--platform=linux/arm64 docker.io/volcanosh/vc-scheduler
 #--platform=linux/arm64 ubuntu-infer:v1
 #--platform=linux/arm64  volhovm/kibana:6.8.10-arm
+--platform=linux/arm64 balenalib/aarch64-ubuntu:bionic-elasticsearch-6.8
 
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
