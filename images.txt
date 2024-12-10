@@ -69,7 +69,7 @@
 #--platform=linux/arm64 docker.io/volcanosh/vc-controller-manager
 #--platform=linux/arm64 docker.io/volcanosh/vc-scheduler
 #--platform=linux/arm64 ubuntu-infer:v1
-
+--platform=linux/arm64  volhovm/kibana:6.8.10-arm
 
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
@@ -120,4 +120,4 @@
 #clickhouse/clickhouse-server
 #yandex/clickhouse-server:latest
 #filebrowser/filebrowser
-redis:6.2.16
+#redis:6.2.16
