@@ -72,7 +72,7 @@
 #--platform=linux/arm64 ubuntu-infer:v1
 #--platform=linux/arm64  volhovm/kibana:6.8.10-arm
 #--platform=linux/arm64 sematext/elasticsearch:6.8.0-arm64
-apache/skywalking-java-agent:8.10.0
+skywalking.docker.scarf.sh/apache/skywalking-java-agent:8.10.0
 
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
