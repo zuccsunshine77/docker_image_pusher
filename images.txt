@@ -76,14 +76,14 @@
 #--platform=linux/arm64 skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.1
 #--platform=linux/arm64 skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.1
 #--platform=linux/arm64 apache/skywalking-python:1.1.0-http-py3.7
---platform=linux/arm64 quay.io/prometheus/node-exporter:v1.8.2
---platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
---platform=linux/arm64 quay.io/prometheus/pushgateway:v1.10.0
---platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.78.2
---platform=linux/arm64 quay.io/prometheus/prometheus:v3.0.1
---platform=linux/arm64 quay.io/prometheus/alertmanager:v0.27.0
+# --platform=linux/arm64 quay.io/prometheus/node-exporter:v1.8.2
+# --platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.14.0
+# --platform=linux/arm64 quay.io/prometheus/pushgateway:v1.10.0
+# --platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.78.2
+# --platform=linux/arm64 quay.io/prometheus/prometheus:v3.0.1
+# --platform=linux/arm64 quay.io/prometheus/alertmanager:v0.27.0
 
-
+dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
