@@ -82,8 +82,9 @@
 # --platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.78.2
 # --platform=linux/arm64 quay.io/prometheus/prometheus:v3.0.1
 # --platform=linux/arm64 quay.io/prometheus/alertmanager:v0.27.0
+--platform=linux/arm64 mysql:5.7.44
 
-dockurr/windows
+#dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
 #docker.io/kubeshark/front:v52.3.69
 #docker.io/kubeshark/hub:v52.3.69
