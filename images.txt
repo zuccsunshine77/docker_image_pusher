@@ -83,7 +83,9 @@
 # --platform=linux/arm64 quay.io/prometheus/prometheus:v3.0.1
 # --platform=linux/arm64 quay.io/prometheus/alertmanager:v0.27.0
 #--platform=linux/arm64 bitnami/mysql:5.7.43
---platform=linux/arm64 docker.io/bitnami/redis-cluster:7.4.2-debian-12-r0
+#--platform=linux/arm64 docker.io/bitnami/redis-cluster:7.4.2-debian-12-r0
+--platform=linux/arm64 bitnami/os-shell:12-debian-12-r34
+--platform=linux/arm64 bitnami/redis-exporter:1.67.0-debian-12-r0
 #--platform=linux/arm64 minio/mino
 
 #dockurr/windows
