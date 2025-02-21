@@ -84,9 +84,12 @@
 # --platform=linux/arm64 quay.io/prometheus/alertmanager:v0.27.0
 #--platform=linux/arm64 bitnami/mysql:5.7.43
 #--platform=linux/arm64 docker.io/bitnami/redis-cluster:7.4.2-debian-12-r0
---platform=linux/arm64 bitnami/os-shell:12-debian-12-r34
---platform=linux/arm64 bitnami/redis-exporter:1.67.0-debian-12-r0
+#--platform=linux/arm64 bitnami/os-shell:12-debian-12-r34
+#--platform=linux/arm64 bitnami/redis-exporter:1.67.0-debian-12-r0
 #--platform=linux/arm64 minio/mino
+
+
+
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
@@ -140,3 +143,4 @@
 #yandex/clickhouse-server:latest
 #filebrowser/filebrowser
 #redis:6.2.16
+us-central1-docker.pkg.dev/genuine-flight-317411/devel/krr:v1.22.0
