@@ -143,4 +143,4 @@
 #yandex/clickhouse-server:latest
 #filebrowser/filebrowser
 #redis:6.2.16
-us-central1-docker.pkg.dev/genuine-flight-317411/devel/krr:v1.22.0
+us-central1-docker.pkg.dev/genuine-flight-317411/devel/krr:v1.8.3
