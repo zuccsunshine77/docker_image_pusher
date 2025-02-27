@@ -145,4 +145,5 @@
 #redis:6.2.16
 #us-central1-docker.pkg.dev/genuine-flight-317411/devel/krr:v1.8.3
 #ubuntu:20.04
-chat2db/chat2db:latest
+#chat2db/chat2db:latest
+clickhouse/clickhouse-server:latest
