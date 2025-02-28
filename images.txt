@@ -147,4 +147,5 @@
 #ubuntu:20.04
 #chat2db/chat2db:latest
 #clickhouse/clickhouse-server:latest
-clickhouse/clickhouse-server:23.8.16.16
+#clickhouse/clickhouse-server:23.8.16.16
+nginx:1.27.4
