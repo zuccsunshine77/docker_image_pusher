@@ -91,7 +91,7 @@
 #--platform=linux/arm64 rancher/mirrored-metrics-server:v0.6.3
 #--platform=linux/arm64 rancher/local-path-provisioner:v0.0.24
 #--platform=linux/arm64 rancher/mirrored-coredns-coredns:1.10.1
---platform=linux/arm64 docker.io/bitnami/redis-cluster:7.2.5-debian-12-r4
+#--platform=linux/arm64 docker.io/bitnami/redis-cluster:7.2.5-debian-12-r4
 
 
 
@@ -156,3 +156,4 @@
 #rancher/nginx-ingress-controller:nginx-1.8.1-rancher1
 #elkozmon/zoonavigator:latest
 #ubuntu:24.04
+kafkamanager/kafka-manager
