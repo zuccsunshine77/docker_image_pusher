@@ -94,7 +94,8 @@
 #--platform=linux/arm64 docker.io/bitnami/redis-cluster:7.2.5-debian-12-r4
 #--platform=linux/arm64 rancher/mirrored-library-busybox:1.36.1
 #--platform=linux/arm64 nginx:1.26.3
---platform=linux/arm64 mysql:8.0.35
+#--platform=linux/arm64 mysql:8.0.35
+--platform=linux/arm64 mysql:5.7.44
 
 
 #dockurr/windows
