@@ -28,6 +28,7 @@
 #--platform=linux/arm64 busybox:1.26.2
 #--platform=linux/arm64 kubernetesui/dashboard:v2.7.0
 #--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.8
+#--platform=linux/arm64 mysql:5.7.44
 #
 #--platform=linux/arm64 zookeeper:3.6.2
 #--platform=linux/arm64 docker.io/rancher/library-busybox:1.31.1
@@ -95,8 +96,9 @@
 #--platform=linux/arm64 rancher/mirrored-library-busybox:1.36.1
 #--platform=linux/arm64 nginx:1.26.3
 #--platform=linux/arm64 mysql:8.0.35
---platform=linux/arm64 mysql:5.7.44
-
+--platform=linux/arm64 apolloconfig/apollo-portal:2.1.0
+--platform=linux/arm64 apolloconfig/apollo-adminservice:2.1.0
+--platform=linux/arm64 apolloconfig/apollo-configservice:2.1.0
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
