@@ -103,7 +103,7 @@
 #--platform=linux/arm64 bitnami/zookeeper:3.7.2
 #--platform=linux/arm64 busybox:1.36.1
 #--platform=linux/arm64 bitnami/kafka:3.3.2
---platform=linux/arm64 bitnami/bitnami-shell:10
+--platform=linux/arm64 bitnami/bitnami-shell:12
 
 
 
