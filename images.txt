@@ -101,7 +101,11 @@
 #--platform=linux/arm64 apolloconfig/apollo-configservice:2.1.0
 #--platform=linux/arm64 clickhouse/clickhouse-server:22.3.15.33
 #--platform=linux/arm64 bitnami/zookeeper:3.7.2
---platform=linux/arm64 busybox:1.36.1
+#--platform=linux/arm64 busybox:1.36.1
+--platform=linux/arm64 bitnami/kafka:3.3.2
+
+
+
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
