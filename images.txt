@@ -103,8 +103,8 @@
 #--platform=linux/arm64 bitnami/zookeeper:3.7.2
 #--platform=linux/arm64 busybox:1.36.1
 #--platform=linux/arm64 bitnami/kafka:3.3.2
---platform=linux/arm64 bitnami/kafka-exporter:1.7.0-debian-11-r120
-
+#--platform=linux/arm64 bitnami/kafka-exporter:1.7.0-debian-11-r120
+--platform=linux/arm64 kafka:3.5.1-debian-11-r1
 
 
 #dockurr/windows
