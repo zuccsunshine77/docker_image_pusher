@@ -96,9 +96,11 @@
 #--platform=linux/arm64 rancher/mirrored-library-busybox:1.36.1
 #--platform=linux/arm64 nginx:1.26.3
 #--platform=linux/arm64 mysql:8.0.35
---platform=linux/arm64 apolloconfig/apollo-portal:2.1.0
---platform=linux/arm64 apolloconfig/apollo-adminservice:2.1.0
---platform=linux/arm64 apolloconfig/apollo-configservice:2.1.0
+#--platform=linux/arm64 apolloconfig/apollo-portal:2.1.0
+#--platform=linux/arm64 apolloconfig/apollo-adminservice:2.1.0
+#--platform=linux/arm64 apolloconfig/apollo-configservice:2.1.0
+--platform=linux/arm64 clickhouse/clickhouse-server:22.3.15.33
+
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
