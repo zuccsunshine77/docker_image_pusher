@@ -105,7 +105,8 @@
 #--platform=linux/arm64 bitnami/kafka:3.3.2
 #--platform=linux/arm64 bitnami/kafka-exporter:1.7.0-debian-11-r120
 #--platform=linux/arm64 bitnami/kafka:3.5.1-debian-11-r1
---platform=linux/arm64 clickhouse/clickhouse-server:23.8.16.16
+#--platform=linux/arm64 clickhouse/clickhouse-server:23.8.16.16
+--platform=linux/arm64 bitnami/kubectl:1.28.5
 
 
 #dockurr/windows
