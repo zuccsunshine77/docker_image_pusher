@@ -108,8 +108,8 @@
 #--platform=linux/arm64 clickhouse/clickhouse-server:23.8.16.16
 #--platform=linux/arm64 bitnami/kubectl:1.28.5
 #--platform=linux/arm64 openresty/openresty:1.27.1.2-jammy
---platform=linux/arm64 rancher/rancher:v2.7.9
-
+#--platform=linux/arm64 rancher/rancher:v2.7.9
+--platform=linux/arm64 rancher/shell:v0.1.21
 
 
 #dockurr/windows
