@@ -110,7 +110,11 @@
 #--platform=linux/arm64 openresty/openresty:1.27.1.2-jammy
 #--platform=linux/arm64 rancher/rancher:v2.7.9
 #--platform=linux/arm64 rancher/shell:v0.1.21
---platform=linux/arm64 rancher/gitjob:v0.8.13
+#--platform=linux/arm64 rancher/gitjob:v0.8.13
+--platform=linux/arm64 rancher/fleet:v0.8.6
+--platform=linux/arm64 rancher/rancher-webhook:v0.3.6
+
+
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
