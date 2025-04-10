@@ -115,7 +115,8 @@
 #--platform=linux/arm64 rancher/rancher-webhook:v0.3.6
 #--platform=linux/arm64 rancher/mirrored-cluster-api-controller:v1.4.4
 #--platform=linux/arm64 rancher/fleet-agent:v0.8.6
---platform=linux/arm64 rancher/kubectl:v1.20.2
+#--platform=linux/arm64 rancher/kubectl:v1.20.2
+--platform=linux/arm64 busybox:1.30
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
