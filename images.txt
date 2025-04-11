@@ -120,8 +120,10 @@
 #--platform=linux/arm64 clickhouse/clickhouse-server:24.3.4.147
 #--platform=linux/arm64 clickhouse/clickhouse-server:24.3.3.102
 #--platform=linux/arm64 clickhouse/clickhouse-server:24.2.3
---platform=linux/arm64 clickhouse/clickhouse-server:23.9.6.20
---platform=linux/arm64 clickhouse/clickhouse-server:25.3.2
+#--platform=linux/arm64 clickhouse/clickhouse-server:23.9.6.20
+--platform=linux/arm64 clickhouse/clickhouse-server:23.5.1
+
+
 
 
 
