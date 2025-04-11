@@ -117,7 +117,8 @@
 #--platform=linux/arm64 rancher/fleet-agent:v0.8.6
 #--platform=linux/arm64 rancher/kubectl:v1.20.2
 #--platform=linux/arm64 busybox:1.30
---platform=linux/arm64 clickhouse/clickhouse-server:24.3.4.147
+#--platform=linux/arm64 clickhouse/clickhouse-server:24.3.4.147
+--platform=linux/arm64 clickhouse/clickhouse-server:24.3.3.102
 
 
 
@@ -185,4 +186,4 @@
 #ubuntu:24.04
 #kafkamanager/kafka-manager
 #hbase:2.4.18
-bitnami/kubectl:1.28.5
+#bitnami/kubectl:1.28.5
