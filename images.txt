@@ -116,7 +116,7 @@
 #--platform=linux/arm64 rancher/mirrored-cluster-api-controller:v1.4.4
 #--platform=linux/arm64 rancher/fleet-agent:v0.8.6
 #--platform=linux/arm64 rancher/kubectl:v1.20.2
---platform=linux/arm64 busybox:1.30
+#--platform=linux/arm64 busybox:1.30
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
@@ -181,3 +181,4 @@
 #ubuntu:24.04
 #kafkamanager/kafka-manager
 #hbase:2.4.18
+bitnami/kubectl:1.28.5
