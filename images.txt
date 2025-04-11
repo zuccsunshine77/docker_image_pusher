@@ -118,7 +118,8 @@
 #--platform=linux/arm64 rancher/kubectl:v1.20.2
 #--platform=linux/arm64 busybox:1.30
 #--platform=linux/arm64 clickhouse/clickhouse-server:24.3.4.147
---platform=linux/arm64 clickhouse/clickhouse-server:24.3.3.102
+#--platform=linux/arm64 clickhouse/clickhouse-server:24.3.3.102
+--platform=linux/arm64 clickhouse/clickhouse-server:24.2.3
 
 
 
