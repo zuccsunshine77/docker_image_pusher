@@ -127,6 +127,10 @@
 #--platform=linux/arm64 clickhouse/clickhouse-server:23.5.5.92
 #--platform=linux/arm64 clickhouse/clickhouse-server:24.3.11.7
 #--platform=linux/arm64 bitnami/clickhouse:23.5.4
+--platform=linux/arm64 toyangdon/dm:8-arm64
+
+
+
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
@@ -194,5 +198,5 @@
 #bitnami/kubectl:1.28.5
 #clickhouse/clickhouse-server:23.7.6.111
 #clickhouse/clickhouse-server:23.5.5.92
-rajnandan1/kener:latest
-mariadb:11
+#rajnandan1/kener:latest
+#mariadb:11
