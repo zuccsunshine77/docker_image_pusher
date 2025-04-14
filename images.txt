@@ -128,7 +128,8 @@
 #--platform=linux/arm64 clickhouse/clickhouse-server:24.3.11.7
 #--platform=linux/arm64 bitnami/clickhouse:23.5.4
 #--platform=linux/arm64 toyangdon/dm:8-arm64
---platform=linux/arm64 clickhouse:25.3.2
+#--platform=linux/arm64 clickhouse:25.3.2
+--platform=linux/arm64 bitnami/kubectl:1.25.12-debian-11-r6
 
 
 
