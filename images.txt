@@ -130,7 +130,8 @@
 #--platform=linux/arm64 toyangdon/dm:8-arm64
 #--platform=linux/arm64 clickhouse:25.3.2
 #--platform=linux/arm64 bitnami/kubectl:1.25.12-debian-11-r6
---platform=linux/arm64 cnxc/dm8:20250117
+#--platform=linux/arm64 cnxc/dm8:20250117
+--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
 
 
 #dockurr/windows
