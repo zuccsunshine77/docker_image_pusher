@@ -133,7 +133,7 @@
 #--platform=linux/arm64 cnxc/dm8:20250117
 #--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
 #--platform=linux/arm64 grafana/grafana:11.1.0
---platform=linux/arm64 bitnami/redis-cluster:6.2.16
+#--platform=linux/arm64 bitnami/redis-cluster:6.2.16
 
 
 #dockurr/windows
@@ -204,3 +204,4 @@
 #clickhouse/clickhouse-server:23.5.5.92
 #rajnandan1/kener:latest
 #mariadb:11
+openjdk:21-jdk
