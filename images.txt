@@ -132,7 +132,8 @@
 #--platform=linux/arm64 bitnami/kubectl:1.25.12-debian-11-r6
 #--platform=linux/arm64 cnxc/dm8:20250117
 #--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
---platform=linux/arm64 grafana/grafana:11.1.0
+#--platform=linux/arm64 grafana/grafana:11.1.0
+--platform=linux/arm64 bitnami/redis-cluster:6.2.16
 
 
 #dockurr/windows
