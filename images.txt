@@ -204,4 +204,14 @@
 #clickhouse/clickhouse-server:23.5.5.92
 #rajnandan1/kener:latest
 #mariadb:11
-openjdk:21-jdk
+#openjdk:21-jdk
+bitnami/redis-cluster:6.2.16
+bitnami/zookeeper:3.7.2
+bitnami/os-shell:12-debian-12-r34
+bitnami/kubectl:1.28.5
+kafka:3.5.1-debian-11-r1
+busybox:1.36.1
+apolloconfig/apollo-portal:2.1.0
+apolloconfig/apollo-adminservice:2.1.0
+apolloconfig/apollo-configservice:2.1.0
+clickhouse/clickhouse-server:24.3.4.147
