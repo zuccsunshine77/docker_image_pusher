@@ -134,7 +134,8 @@
 #--platform=linux/arm64 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
 #--platform=linux/arm64 grafana/grafana:11.1.0
 #--platform=linux/arm64 bitnami/redis-cluster:6.2.16
---platform=linux/arm64 bitnami/redis-cluster:6.2.16-debian-12-r3
+#--platform=linux/arm64 bitnami/redis-cluster:6.2.16-debian-12-r3
+--platform=linux/arm64 tomcat:8.5.100-jdk8-temurin-jammy
 
 
 #dockurr/windows
