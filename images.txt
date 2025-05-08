@@ -141,7 +141,8 @@
 #--platform=linux/arm64 quay.io/jetstack/cert-manager-webhook:v1.13.3
 #--platform=linux/arm64 quay.io/jetstack/cert-manager-ctl:v1.13.3
 #--platform=linux/arm64 rancher/rancher:v2.11.1
---platform=linux/arm64 rancher/shell:v0.4.0
+#--platform=linux/arm64 rancher/shell:v0.4.0
+--platform=linux/arm64 rancher/rancher-webhook:v0.7.1
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
