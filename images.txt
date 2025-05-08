@@ -135,8 +135,10 @@
 #--platform=linux/arm64 grafana/grafana:11.1.0
 #--platform=linux/arm64 bitnami/redis-cluster:6.2.16
 #--platform=linux/arm64 bitnami/redis-cluster:6.2.16-debian-12-r3
---platform=linux/arm64 tomcat:8.5.100-jdk8-temurin-jammy
-
+#--platform=linux/arm64 tomcat:8.5.100-jdk8-temurin-jammy
+--platform=linux/arm64 quay.io/jetstack/cert-manager-controller:v1.13.3
+--platform=linux/arm64 quay.io/jetstack/cert-manager-cainjector:v1.13.3
+--platform=linux/arm64 quay.io/jetstack/cert-manager-webhook:v1.13.3
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
