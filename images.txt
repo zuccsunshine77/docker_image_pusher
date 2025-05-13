@@ -143,10 +143,13 @@
 #--platform=linux/arm64 rancher/rancher:v2.11.1
 #--platform=linux/arm64 rancher/shell:v0.4.0
 #--platform=linux/arm64 rancher/rancher-webhook:v0.7.1
---platform=linux/arm64 quay.io/prometheus/pushgateway:v1.11.0
---platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0
---platform=linux/arm64 quay.io/prometheus/prometheus:v3.2.1
---platform=linux/arm64 quay.io/prometheus/alertmanager:v0.28.1
+#--platform=linux/arm64 quay.io/prometheus/pushgateway:v1.11.0
+#--platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0
+#--platform=linux/arm64 quay.io/prometheus/prometheus:v3.2.1
+#--platform=linux/arm64 quay.io/prometheus/alertmanager:v0.28.1
+--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.9.0
+
+
 
 #dockurr/windows
 #apache/skywalking-java-agent:9.3.0-java8
