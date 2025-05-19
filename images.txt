@@ -230,4 +230,5 @@
 #apolloconfig/apollo-adminservice:2.1.0
 #apolloconfig/apollo-configservice:2.1.0
 #clickhouse/clickhouse-server:24.3.4.147
-netdata/netdata
+#netdata/netdata
+minio/minio:RELEASE.2025-04-22T22-12-26Z
