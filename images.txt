@@ -147,7 +147,7 @@
 #--platform=linux/arm64 quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0
 #--platform=linux/arm64 quay.io/prometheus/prometheus:v3.2.1
 #--platform=linux/arm64 quay.io/prometheus/alertmanager:v0.28.1
---platform=linux/arm64 quay.io/prometheus/node-exporter:v1.9.0
+#--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.9.0
 
 
 
@@ -230,3 +230,4 @@
 #apolloconfig/apollo-adminservice:2.1.0
 #apolloconfig/apollo-configservice:2.1.0
 #clickhouse/clickhouse-server:24.3.4.147
+netdata/netdata
