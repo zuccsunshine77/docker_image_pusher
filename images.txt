@@ -231,4 +231,5 @@
 #apolloconfig/apollo-configservice:2.1.0
 #clickhouse/clickhouse-server:24.3.4.147
 #netdata/netdata
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+#minio/minio:RELEASE.2025-04-22T22-12-26Z
+docker.io/bitnami/redis-cluster:7.2.5-debian-12-r4
