@@ -233,9 +233,10 @@
 #netdata/netdata
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
 #docker.io/bitnami/redis-cluster:7.2.5-debian-12-r4
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
-quay.io/prometheus/pushgateway:v1.11.0
-quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0
-quay.io/prometheus/prometheus:v3.2.1
-quay.io/prometheus/alertmanager:v0.28.1
-quay.io/prometheus/node-exporter:v1.9.0
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.15.0
+#quay.io/prometheus/pushgateway:v1.11.0
+#quay.io/prometheus-operator/prometheus-config-reloader:v0.81.0
+#quay.io/prometheus/prometheus:v3.2.1
+#quay.io/prometheus/alertmanager:v0.28.1
+#quay.io/prometheus/node-exporter:v1.9.0
+kibana:6.7.0
