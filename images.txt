@@ -239,4 +239,5 @@
 #quay.io/prometheus/prometheus:v3.2.1
 #quay.io/prometheus/alertmanager:v0.28.1
 #quay.io/prometheus/node-exporter:v1.9.0
-kibana:6.7.0
+#kibana:6.7.0
+nginx:1.28.0
