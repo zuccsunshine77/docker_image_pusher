@@ -247,3 +247,4 @@
 #python:3.9.23
 #python:3.13-bullseye
 #vllm/vllm-openai:v0.8.5.post1
+cgr.dev/chainguard/nginx
