@@ -148,8 +148,8 @@
 #--platform=linux/arm64 quay.io/prometheus/prometheus:v3.2.1
 #--platform=linux/arm64 quay.io/prometheus/alertmanager:v0.28.1
 #--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.9.0
---platform=linux/arm64 bitnami/mysql:5.7.43
-
+#--platform=linux/arm64 bitnami/mysql:5.7.43
+--platform=linux/arm64 nginx:1.28.0
 
 
 #dockurr/windows
@@ -247,4 +247,4 @@
 #python:3.9.23
 #python:3.13-bullseye
 #vllm/vllm-openai:v0.8.5.post1
-cgr.dev/chainguard/nginx
+#cgr.dev/chainguard/nginx
