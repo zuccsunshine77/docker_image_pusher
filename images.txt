@@ -150,7 +150,8 @@
 #--platform=linux/arm64 quay.io/prometheus/node-exporter:v1.9.0
 #--platform=linux/arm64 bitnami/mysql:5.7.43
 #--platform=linux/arm64 nginx:1.28.0
---platform=linux/arm64 apache/kafka:3.7.2
+#--platform=linux/arm64 apache/kafka:3.7.2
+--platform=linux/arm64 zookeeper:3.8.4
 
 
 #dockurr/windows
