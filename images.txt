@@ -256,6 +256,8 @@
 #enmotech/opengauss:6.0.0
 #bitnami/clickhouse:24.3.2-debian-12-r2
 #bitnami/zookeeper:3.8.4-debian-12-r2
-pingcap/pd:v7.5.6
-pingcap/tikv:v7.5.6
-pingcap/tidb:v7.5.6
+#pingcap/pd:v7.5.6
+#pingcap/tikv:v7.5.6
+#pingcap/tidb:v7.5.6
+bitnami/os-shell:12-debian-12-r43
+bitnami/elasticsearch:8.18.0-debian-12-r2
