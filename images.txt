@@ -262,4 +262,4 @@
 #bitnami/os-shell:12-debian-12-r43
 #bitnami/elasticsearch:8.18.0-debian-12-r2
 #bitnami/kafka:3.6.1-debian-12-r12
-apache/kafka:3.6.2
+apache/kafka:3.7.2
