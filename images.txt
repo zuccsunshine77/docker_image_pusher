@@ -265,4 +265,9 @@
 #apache/kafka:3.7.2
 #elasticsearch:8.13.4
 #kibana:8.13.4
-mysql:8.0.32
+#mysql:8.0.32
+rancher/fleet-agent:v0.8.6
+jetstack/cert-manager-cainjector:v1.13.3
+jetstack/cert-manager-webhook:v1.13.3
+jetstack/cert-manager-ctl:v1.13.3
+jetstack/cert-manager-controller:v1.13.3
