@@ -50,7 +50,7 @@
 #--platform=linux/arm64 tomcat:8.5.87-jdk17
 #ubuntu:22.04
 #--platform=linux/arm64 ubuntu:20.04
-#--platform=linux/arm64 ubuntu:24.04
+--platform=linux/arm64 ubuntu:24.04
 #--platform=linux/arm64 busybox:1.31.1
 #--platform=linux/arm64 centos:7
 # 备用minio:RELEASE.2020
@@ -267,7 +267,7 @@
 #kibana:8.13.4
 #mysql:8.0.32
 #rancher/fleet-agent:v0.8.6
-quay.io/jetstack/cert-manager-cainjector:v1.13.3
-quay.io/jetstack/cert-manager-webhook:v1.13.3
-quay.io/jetstack/cert-manager-ctl:v1.13.3
-quay.io/jetstack/cert-manager-controller:v1.13.3
+#quay.io/jetstack/cert-manager-cainjector:v1.13.3
+#quay.io/jetstack/cert-manager-webhook:v1.13.3
+#quay.io/jetstack/cert-manager-ctl:v1.13.3
+#quay.io/jetstack/cert-manager-controller:v1.13.3
