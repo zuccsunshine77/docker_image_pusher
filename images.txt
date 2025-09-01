@@ -155,8 +155,8 @@
 #--platform=linux/arm64 bitnami/clickhouse:24.3.2-debian-12-r2
 #--platform=linux/arm64 bitnami/zookeeper:3.8.4-debian-12-r2
 #--platform=linux/arm64 bitnami/clickhouse:23.4.2-debian-11-r13
---platform=linux/arm64 apache/skywalking-java-agent:9.5.0-java17
---platform=linux/arm64 apache/skywalking-java-agent:9.5.0-java8
+#--platform=linux/arm64 apache/skywalking-java-agent:9.5.0-java17
+#--platform=linux/arm64 apache/skywalking-java-agent:9.5.0-java8
 
 
 #dockurr/windows
@@ -273,3 +273,5 @@
 #quay.io/jetstack/cert-manager-webhook:v1.13.3
 #quay.io/jetstack/cert-manager-ctl:v1.13.3
 #quay.io/jetstack/cert-manager-controller:v1.13.3
+apache/skywalking-java-agent:9.5.0-java17
+apache/skywalking-java-agent:9.5.0-java8
