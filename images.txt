@@ -219,7 +219,7 @@
 #nginx:1.27.4
 #rancher/nginx-ingress-controller:nginx-1.8.1-rancher1
 #elkozmon/zoonavigator:latest
-ubuntu:24.04
+#ubuntu:24.04
 #kafkamanager/kafka-manager
 #hbase:2.4.18
 #bitnami/kubectl:1.28.5
