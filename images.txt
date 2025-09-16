@@ -276,3 +276,4 @@
 #apache/skywalking-java-agent:9.5.0-java17
 #apache/skywalking-java-agent:9.5.0-java8
 #rancher/fleet-agent:v0.8.0
+1panel/kubepi
