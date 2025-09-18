@@ -277,4 +277,5 @@
 #apache/skywalking-java-agent:9.5.0-java8
 #rancher/fleet-agent:v0.8.0
 #1panel/kubepi
-bde2020/hadoop-traditional
+#bde2020/hadoop-traditional
+k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
