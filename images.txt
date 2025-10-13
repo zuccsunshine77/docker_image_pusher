@@ -157,6 +157,9 @@
 #--platform=linux/arm64 bitnami/clickhouse:23.4.2-debian-11-r13
 #--platform=linux/arm64 apache/skywalking-java-agent:9.5.0-java17
 #--platform=linux/arm64 apache/skywalking-java-agent:9.5.0-java8
+--platform=linux/arm64 apache/skywalking-oap-server:10.2.0
+--platform=linux/arm64 apache/skywalking-ui:10.2.0
+
 
 
 #dockurr/windows
@@ -278,4 +281,4 @@
 #rancher/fleet-agent:v0.8.0
 #1panel/kubepi
 #bde2020/hadoop-traditional
-k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
