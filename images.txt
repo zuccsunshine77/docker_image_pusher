@@ -282,4 +282,6 @@
 #1panel/kubepi
 #bde2020/hadoop-traditional
 #k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-xprobe/xinference:v1.11.0.post1-cu128
+#xprobe/xinference:v1.11.0.post1-cu128
+xprobe/xinference:v1.11.0-cu128
+
