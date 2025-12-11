@@ -284,5 +284,6 @@
 #k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #xprobe/xinference:v1.11.0.post1-cu128
 #xprobe/xinference:v1.11.0-cu128
-docker.io/bitnami/zookeeper:3.9.3-debian-12-r21
+#docker.io/bitnami/zookeeper:3.9.3-debian-12-r21
+vllm/vllm-openai:v0.12.0
 
